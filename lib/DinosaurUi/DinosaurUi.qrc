@@ -1,10 +1,11 @@
 <RCC>
-    <qresource prefix="/DinosaurUi">
+    <qresource prefix="/DinosaurUI">
         <file>Element/Ink.qml</file>
         <file>Element/CircleMask.qml</file>
         <file>Element/ThemePalette.qml</file>
         <file>Element/View.qml</file>
         <file>Interface/DinosaurButton.qml</file>
         <file>fonts/Material-Design-Iconic-Font.ttf</file>
+        <file>DinosaurUI.qml</file>
     </qresource>
 </RCC>

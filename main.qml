@@ -1,6 +1,7 @@
 import QtQuick 2.4
 import Qt.labs.controls 1.0
-import "qrc:/DinosaurUi/Interface/"
+import "qrc:/DinosaurUI/"
+import "qrc:/DinosaurUI/Interface/"
 
 ApplicationWindow
 {
@@ -10,9 +11,4 @@ ApplicationWindow
     height: 600
     title: qsTr("DinosaurBox")
     color: "#fafafa"
-
-    DinosaurButton
-    {
-        anchors.centerIn: parent
-    }
 }
