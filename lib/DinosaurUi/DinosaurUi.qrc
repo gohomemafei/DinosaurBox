@@ -5,7 +5,5 @@
         <file>Element/ThemePalette.qml</file>
         <file>Element/View.qml</file>
         <file>Interface/DinosaurButton.qml</file>
-        <file>fonts/Material-Design-Iconic-Font.ttf</file>
-        <file>DinosaurUI.qml</file>
     </qresource>
 </RCC>
