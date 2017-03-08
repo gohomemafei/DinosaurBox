@@ -4,6 +4,7 @@
         <file>Element/CircleMask.qml</file>
         <file>Element/ThemePalette.qml</file>
         <file>Element/View.qml</file>
+        <file>Interface/DinosaurButton1.qml</file>
         <file>Interface/DinosaurButton.qml</file>
     </qresource>
 </RCC>
